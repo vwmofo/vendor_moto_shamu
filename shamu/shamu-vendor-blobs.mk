@@ -100,6 +100,9 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/soundfx/libspeakerbundle.so:system/lib/soundfx/libspeakerbundle.so \
     vendor/moto/shamu/proprietary/lib/libadspd-jni.so:system/lib/libadspd-jni.so \
     vendor/moto/shamu/proprietary/lib/libadspd.so:system/lib/libadspd.so \
+    vendor/moto/shamu/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
+    vendor/moto/shamu/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
+    vendor/moto/shamu/proprietary/lib/libldacBT_enc.so:system/lib/libldacBT_enc.so \
     vendor/moto/shamu/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/moto/shamu/proprietary/lib/libdetectmodem.so:system/lib/libdetectmodem.so \
     vendor/moto/shamu/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
